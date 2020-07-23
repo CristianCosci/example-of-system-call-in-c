@@ -14,4 +14,7 @@ bash: ~ $ ./custom_find ".txt"
 /home/cc/directory/file1.txt Fri May 5 19:25:09 2020
 /home/cc/directory/subdir/file2.txt Fri May 4 19:25:09 2020
 
+Information to compile:
+Move to directory with the c file and write te command "make" from terminal. 
+You can also use "make clean" to delete de compilated file after using it.
 
